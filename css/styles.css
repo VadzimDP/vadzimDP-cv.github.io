@@ -150,16 +150,16 @@ main {
 	width: 100%;
 }
 
-.about {
+#about {
 	margin: 120px auto 110px auto;
 }
 
-.skills {
+#skills {
 	margin: 165px auto 225px auto;
 	width: 100%;
 }
 
-.skills p {
+#skills p {
 	margin-top: 70px;
 }
 
@@ -201,18 +201,18 @@ figcaption {
 	height: 25px;
 }
 
-.portfolio {
+#portfolio {
 	margin: 0 auto;
 	max-width: 100%;
 	text-align: center;
 }
 
-.portfolio img {
+#portfolio img {
 	width: 50%;
 	border: 0.1px dotted #000;
 }
 
-.portfolio figcaption {
+#portfolio figcaption {
 	margin-top: 45px;
 	font-family: Gilroy, sans-serif;
 	font-size: 18px;
@@ -252,7 +252,7 @@ footer h1 {
     justify-content: space-between;
     align-items: center;
 }
-.contacts p {
+№contacts p {
 	width: 240px;
 	font-family: Gilroy, sans-serif;
 	font-size: 14px;
