@@ -244,6 +244,10 @@ footer h1 {
 	font-size: 18px;
 }
 
+.dm:hover, .dm:focus {
+	background-color: #828282;
+}
+
 .social {
 	margin: 75px auto 40px auto ;
 	max-width: 340px;
@@ -252,7 +256,8 @@ footer h1 {
     justify-content: space-between;
     align-items: center;
 }
-№contacts p {
+
+#contacts p {
 	width: 240px;
 	font-family: Gilroy, sans-serif;
 	font-size: 14px;
